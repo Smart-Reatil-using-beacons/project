@@ -2,13 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4f48d35-a8be-4da4-847f-8dbd6e21b278" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/product/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Deos/EngageDeoLarge4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Juices/guava-gush-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logo/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Juices/mango-magic-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Juices/pineapple-poise-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/retail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Bingo/salt-sprinkled-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProductLogos/Vivel/vivel-shea-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Wipro-Hackathon.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/analyze.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beacons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cat.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getOffer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getProductList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getShelf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/R_scripts/inventory.R" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inventory.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inventory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.tabletojson.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offerAnalytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/peakAnalytics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/productSalesRate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/R_scripts/sales.R" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sales.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viewInventory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Wipro-Hackathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,8 +119,8 @@
       <file leaf-file-name="offerAnalytics.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/offerAnalytics.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24207012">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.28428093">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -449,19 +505,27 @@
       <option name="number" value="Default" />
       <updated>1436522611585</updated>
       <workItem from="1436522613100" duration="20100000" />
-      <workItem from="1436544414359" duration="38000" />
+      <workItem from="1436544414359" duration="157000" />
     </task>
+    <task id="LOCAL-00001" summary="project uploaded and updated !!">
+      <created>1436544478391</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1436544478391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20138000" />
+    <option name="totallyTimeSpent" value="20257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -469,7 +533,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -487,6 +551,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project uploaded and updated !!" />
+    <option name="LAST_COMMIT_MESSAGE" value="project uploaded and updated !!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -614,8 +682,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/offerAnalytics.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24207012">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28428093">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding />
         </state>
       </provider>
