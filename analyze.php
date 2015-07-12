@@ -72,7 +72,7 @@
                         <span class="card-title">Offers 2 Sales Analytics</span>
                     </div>
                     <div class="card-content">
-                        <p>I am a very simple card. I am good at containing small bits of information.</p>
+                        <p>Click here to see how many offers have been converted into sales.</p>
                     </div>
                     <div class="card-action">
                         <a href="offerAnalytics.php">Fetch Analysis</a>
@@ -88,10 +88,27 @@
                         <span class="card-title">Peak Hour Analytics</span>
                     </div>
                     <div class="card-content">
-                        <p>I am a very simple card. I am good at containing small bits of information.</p>
+                        <p>Click here to see the most famous product of your store.</p>
                     </div>
                     <div class="card-action">
                         <a href="peakAnalytics.php">Fetch Analysis</a>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="col s4 m4 l4">
+
+                <div class="card medium">
+                    <div class="card-image">
+                        <img src="images/background.png">
+                        <span class="card-title">Store Layout</span>
+                    </div>
+                    <div class="card-content">
+                        <p>Click here to see the store layout. </p>
+                    </div>
+                    <div class="card-action">
+                        <a href="getView.php">Fetch Analysis</a>
                     </div>
                 </div>
 

@@ -44,10 +44,13 @@
 
 <main>
     <?php
-    exec('"C:\Program Files\R\R-3.2.1\bin\Rscript.exe" C:\xampp\htdocs\Wipro-Hackathon\R_scripts\inventory.R"', $output, $return);
+    //exec('"C:\Program Files\R\R-3.2.1\bin\Rscript.exe" C:\xampp\htdocs\Wipro-Hackathon\R_scripts\inventory.R"', $output, $return);
     //Showing Output Images
+    echo "<center>";
     echo "Graphs </br>";
-    echo "<img src='graphs/inventory.png' class='plot'><br>";
+
+    echo "<img src='R_scripts/graphs/inventory.png' class='plot'><br>";
+   echo "</center>";
     ?>
 </main>
 

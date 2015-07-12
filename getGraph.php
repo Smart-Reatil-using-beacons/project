@@ -14,7 +14,7 @@ include "db.inc.php";
       for($i=0;$i<count($offer);$i++){
           $array=explode("-",$offer[$i]);
         // $array[0] means userid
-        // $array[1] means productid
+        // $array[1] means productname
         // $array[2] means Y/N
           $string=$array[0].",".$array[1].",".$array[2];
           $file = fopen("cat.csv","a");

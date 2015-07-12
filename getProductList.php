@@ -12,7 +12,7 @@ $result=mysql_query($sql)or die(mysql_error());
 while($row=mysql_fetch_array($result))
 {
     $name=$row['name'];
-    $barcode=intval($row['barcode']);
+    $barcode=$row['barcode'];
     $posts[] = array('pname'=> $name,'barcode'=>$barcode);
 
 
